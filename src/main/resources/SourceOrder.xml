@@ -1,0 +1,15 @@
+<SourceOrder id="123456">
+  <SourceOrderDate>2013-08-27T11:00:00</SourceOrderDate>
+  <SourceItems>
+    <SourceItem id="1111111">
+      <ItemDesc>Nexus 4</ItemDesc>
+      <TaxDetails>
+        <TaxDetail type="SalesTax" amount="1.0" />
+        <TaxDetail type="ElectronicWasteRecyclingFee" amount="0.20" />
+      </TaxDetails>
+    </SourceItem>
+    <SourceItem id="222222">
+      <ItemDesc>Nexus 10</ItemDesc>
+    </SourceItem>
+  </SourceItems>
+</SourceOrder>
